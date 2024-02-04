@@ -25,7 +25,6 @@
 
         ::after,
         ::before {
-
             --tw-content: ''
         }
 
